@@ -28,8 +28,7 @@ Backend developer building scalable and reliable server-side systems.
 
 - Design Patterns
 - PostgreSQL + advanced SQL
-- Message queues (Redis / Bullmq)
-- TypeScript for backend
+- Python for Backend and AI
 
   
 
