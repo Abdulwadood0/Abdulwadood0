@@ -1,6 +1,6 @@
 # Hi, I'm Abdul Wadoud 
 
-### Backend Developer | Node.js, NestJS, Python
+### Software Engineer | Node.js, NestJS, Python
 
 I'm a Computer Science graduate focused on backend engineering, building APIs, and designing reliable server-side systems.
 
