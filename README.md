@@ -4,7 +4,7 @@
 
 I'm a Computer Science graduate focused on backend engineering, building APIs, and designing reliable server-side systems.
 
-I have hands-on experience from a Software Engineer internship and personal projects involving database design, Third party integration, background job processing, authentication, and deployment.
+I have experience from a Software Engineer internship and personal projects involving database design, Third party integration, AI solutions, background job processing, authentication, and deployment.
 
 ## 🛠️ Tech Stack
 
@@ -21,6 +21,7 @@ I have hands-on experience from a Software Engineer internship and personal proj
 ## 🎯 Areas of Interest
 
 - Backend architecture and API design
+- AI Solutions
 - System integrations, webhooks, and workflow automation
 - Database design, transactions, and query optimization
 - Background jobs, queues, and asynchronous processing
@@ -35,9 +36,9 @@ I have hands-on experience from a Software Engineer internship and personal proj
 
 ## 📚 Currently Learning
 
+- Python backend development and AI engineering
 - Advanced PostgreSQL and SQL
 - System design and backend architecture
-- Python backend development and AI engineering
 
 ## 🔗 Connect With Me
 
